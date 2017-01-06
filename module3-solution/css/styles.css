@@ -1,0 +1,15 @@
+.menuitem {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    margin: 0px;
+    padding: 15px;
+}
+
+section div {
+    background-color: lightgray;
+    padding: 15px;
+}
